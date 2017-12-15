@@ -1,0 +1,26 @@
+Hidden Layers: (6), Hidden Layer Neurons: (75), Learning Rate: (1e-5)
+Final Accuracy: 0.5627
+Hidden Layers: (6), Hidden Layer Neurons: (90), Learning Rate: (1e-4)
+Final Accuracy: 0.5610
+Hidden Layers: (6), Hidden Layer Neurons: (60), Learning Rate: (1e-3)
+Final Accuracy: 0.5796
+Hidden Layers: (6), Hidden Layer Neurons: (20), Learning Rate: (1e-2)
+Final Accuracy: 0.5878
+Hidden Layers: (6), Hidden Layer Neurons: (40), Learning Rate: (1e-1)
+Final Accuracy: 0.5765
+Hidden Layers: (6), Hidden Layer Neurons: (60), Learning Rate: (1e-7)
+Final Accuracy: 0.5740
+
+
+Hidden Layers: (7), Hidden Layer Neurons: (75), Learning Rate: (1e-5)
+Final Accuracy: 0.5773
+Hidden Layers: (7), Hidden Layer Neurons: (90), Learning Rate: (1e-4)
+Final Accuracy: 0.5685
+Hidden Layers: (7), Hidden Layer Neurons: (60), Learning Rate: (1e-3)
+Final Accuracy: 0.5688
+Hidden Layers: (7), Hidden Layer Neurons: (20), Learning Rate: (1e-2)
+Final Accuracy: 0.5685
+Hidden Layers: (7), Hidden Layer Neurons: (40), Learning Rate: (1e-1)
+Final Accuracy: 0.5660
+Hidden Layers: (7), Hidden Layer Neurons: (60), Learning Rate: (1e-7)
+Final Accuracy: 0.5721
